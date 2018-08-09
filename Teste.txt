@@ -1,2 +1,6 @@
 Minha pica
+<<<<<<< Updated upstream
 Qual?
+=======
+mdsss
+>>>>>>> Stashed changes
