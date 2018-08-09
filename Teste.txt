@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-.
-=======
-Minha pica
-<<<<<<< Updated upstream
-Qual?
-=======
-mdsss
->>>>>>> Stashed changes
->>>>>>> master
+C é louco?
+
